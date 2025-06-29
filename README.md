@@ -1,0 +1,1 @@
+# PriyaSingh_-CodeAlpha_disease_Prediction_from_MedicalData_-1-.ipynb
